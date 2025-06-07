@@ -1,0 +1,85 @@
+{
+  "меню": {
+    "text": "📋 Главное меню:",
+    "buttons": [
+      [
+        "📅 Календарь",
+        "calendar"
+      ],
+      [
+        "🔍 CRM",
+        "open_crm"
+      ],
+      [
+        "📁 Внутренние отделы",
+        "departments"
+      ]
+    ]
+  },
+  "departments": {
+    "text": "Выберите отдел:",
+    "buttons": [
+      [
+        "🛠 IT-поддержка",
+        "it_support"
+      ],
+      [
+        "📄 HR",
+        "hr_dept"
+      ],
+      [
+        "🏛 Администрация",
+        "admin_dept"
+      ],
+      [
+        "🔙 Назад",
+        "меню"
+      ]
+    ]
+  },
+  "calendar": {
+    "text": "📅 Ваш календарь: https://your.bitrix24.ru/calendar/",
+    "buttons": [
+      [
+        "🔙 Назад",
+        "меню"
+      ]
+    ]
+  },
+  "open_crm": {
+    "text": "🔍 CRM: https://your.bitrix24.ru/crm/",
+    "buttons": [
+      [
+        "🔙 Назад",
+        "меню"
+      ]
+    ]
+  },
+  "it_support": {
+    "text": "🛠 IT: it@company.com",
+    "buttons": [
+      [
+        "🔙 Назад",
+        "departments"
+      ]
+    ]
+  },
+  "hr_dept": {
+    "text": "📄 HR: hr@company.com",
+    "buttons": [
+      [
+        "🔙 Назад",
+        "departments"
+      ]
+    ]
+  },
+  "admin_dept": {
+    "text": "🏛 Администрация: contact@company.com",
+    "buttons": [
+      [
+        "🔙 Назад",
+        "departments"
+      ]
+    ]
+  }
+}
